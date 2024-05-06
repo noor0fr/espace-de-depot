@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>IMC</title>
+</head>
+<body>
+<label>Poids :</label>
+<input type="text"/>
+<label>Taille :</label>
+<input type="text"/>
+<button type="submit">calculer</button>
+</body>
+</html>

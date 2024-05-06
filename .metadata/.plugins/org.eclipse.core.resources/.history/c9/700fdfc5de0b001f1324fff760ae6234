@@ -1,0 +1,5 @@
+package metier;
+
+public interface IImcMetier {
+	public interface calculImc(int poids,double taille);
+}

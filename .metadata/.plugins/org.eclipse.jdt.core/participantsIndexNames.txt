@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+C:\Users\NOUR\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2658479215.index
+\AuthJSP\src\main\java
+C:\Users\NOUR\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\728421459.index
+\Calcul_IMC\src\main\java
+C:\Users\NOUR\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2839045119.index
+\FirstJSP\src\main\java
